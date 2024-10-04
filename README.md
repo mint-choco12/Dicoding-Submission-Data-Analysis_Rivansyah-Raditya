@@ -14,7 +14,7 @@ Proyek ini adalah proyek analisis data dan visualisasi yang berfokus pada data p
 - `dashboard/`: Berisikan kode program untuk 
 - `data/`: Data publik e-commerce
 - `notebook.ipynb`: File tersusun untuk melihat analisis data yang telah dilakukan
-- `README.md`: This documentation file.
+- `README.md`: Panduan menjalankan dashboard
 
 ## Installation
 1. Clone this repository to your local machine:
@@ -31,11 +31,11 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-1. **Data Wrangling**: Data wrangling scripts are available in the `notebook.ipynb` file to prepare and clean the data.
+1. **Data Wrangling**: Dapat diakses pada `notebook.ipynb` untuk melalui beberapa tahap pengolahan data.
 
-2. **Exploratory Data Analysis (EDA)**: Explore and analyze the data using the provided Python scripts. EDA insights can guide your understanding of e-commerce public data patterns.
+2. **Exploratory Data Analysis (EDA)**: Penjelasan dan Menghubungkan korelasi antar beberapa data.
 
-3. **Visualization**: Run the Streamlit dashboard for interactive data exploration:
+3. **Visualization**: Penyajian data dalam bentuk visual agar dapat dilihat dengan menarik:
 
 ```
 cd data-analyst-dicoding/dashboard
