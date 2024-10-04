@@ -5,7 +5,6 @@
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Data Sources](#data-sources)
 
 ## Overview
 Proyek ini adalah proyek analisis data dan visualisasi yang berfokus pada data publik e-commerce. Proyek ini mencakup kode untuk pengolahan data, analisis data eksploratif (EDA), dan dashboard Streamlit untuk eksplorasi data interaktif. Proyek ini bertujuan untuk menganalisis data pada Dataset Publik E-Commerce.
@@ -34,5 +33,3 @@ cd data-analyst-dicoding/dashboard
 streamlit run dashboard.py
 ```
 
-## Data Sources
-The project uses E-Commerce Public Dataset from [Belajar Analisis Data dengan Python's Final Project](https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view) offered by [Dicoding](https://www.dicoding.com/).
